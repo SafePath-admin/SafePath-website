@@ -79,3 +79,16 @@ Read-only access may be granted to trusted advisors, partners, or reviewers.
 ⸻
 
 ## BEGIN LOG ENTRIES BELOW
+
+⸻
+
+## HISTORICAL LOG IMPORT NOTICE
+
+The entries below represent a complete historical backfill of the SafePath Initiative
+Progress Log, imported into GitHub on 12/20/25.
+
+All entries retain their original timestamps and wording.
+Entries logged after the live logging marker are recorded contemporaneously.
+
+⸻
+
